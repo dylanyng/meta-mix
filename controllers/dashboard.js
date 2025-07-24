@@ -1,3 +1,5 @@
+// All code below from boilerplate
+
 const cloudinary = require("../middleware/cloudinary");
 const Post = require("../models/Post");
 

@@ -1,3 +1,5 @@
+// User schema, googleID, appleID, credits
+// All boiler plate below
 const bcrypt = require("bcrypt");
 const mongoose = require("mongoose");
 

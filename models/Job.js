@@ -1,0 +1,1 @@
+// Tracks a processing job's state
