@@ -1,6 +1,6 @@
 // User schema, googleID, appleID, credits
 // All boiler plate below
-const bcrypt = require("bcrypt"); // Removed bcrypt
+// const bcrypt = require("bcrypt"); // Removed bcrypt
 const mongoose = require("mongoose");
 
 const UserSchema = new mongoose.Schema({
