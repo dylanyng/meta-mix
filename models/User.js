@@ -1,12 +1,33 @@
-// User schema, googleID, appleID, credits
-// All boiler plate below
-// const bcrypt = require("bcrypt"); // Removed bcrypt
 const mongoose = require("mongoose");
 
 const UserSchema = new mongoose.Schema({
-  userName: { type: String, unique: true },
-  email: { type: String, unique: true },
-  password: String,
+  googleId: {
+    type: String,
+    required: true
+  },
+  displayName: {
+    type: String,
+    required: true
+  },
+  firstName: {
+    type: String,
+    required: true
+  },
+  lastName: {
+    type: String,
+    required: true
+  },
+  image: {
+    type: String,
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now
+  },
+  credits: {
+    type: Number,
+    default: 1
+  }
 });
 
 module.exports = mongoose.model("User", UserSchema);
