@@ -51,8 +51,9 @@ app.use(flash());
 // Setup Routes For Which The Server Is Listening
 app.use('/', mainRoutes);
 app.use('/auth', require('./routes/auth'));
+app.use('/dashboard', require('./routes/dashboard'));
 
 //Server Running
 app.listen(process.env.PORT, () => {
-  console.log("Server is running, you better catch it!");
+  console.log("Server running...");
 });
