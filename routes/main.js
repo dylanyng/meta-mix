@@ -12,10 +12,10 @@ router.get("/", homeController.getIndex);
 // router.get("/profile", ensureAuth, postsController.getProfile); // Removed
 
 //Routes for user login/signup
-router.get("/login", authController.getLogin);
-router.post("/login", authController.postLogin);
-router.get("/logout", authController.logout);
-router.get("/signup", authController.getSignup);
-router.post("/signup", authController.postSignup);
+// router.get("/login", authController.getLogin);
+// router.post("/login", authController.postLogin);
+// router.get("/logout", authController.logout);
+// router.get("/signup", authController.getSignup);
+// router.post("/signup", authController.postSignup);
 
 module.exports = router;
