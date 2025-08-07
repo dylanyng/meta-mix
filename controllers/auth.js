@@ -1,4 +1,4 @@
-// Boilerplate
+// Everything below is boilerplate
 
 const passport = require("passport");
 const validator = require("validator");
