@@ -1,0 +1,307 @@
+{
+    "data": [
+        {
+            "id": "a.1542568135",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1542568135",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is2-ssl.mzstatic.com/image/thumb/Music124/v4/8c/8f/8a/8c8f8a29-8810-feb8-7091-18191ca2768a/886448619161.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Dirk Maassen",
+                "discNumber": 2,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 169813,
+                "releaseDate": "2020-12-18",
+                "name": "Diaries (From Home)",
+                "hasLyrics": false,
+                "albumName": "Echoes",
+                "playParams": {
+                    "id": "a.1542568135",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1542568135"
+                },
+                "trackNumber": 3
+            }
+        },
+        {
+            "id": "a.472229257",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.472229257",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is1-ssl.mzstatic.com/image/thumb/Music/da/c8/4f/mzi.zuduxsnk.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Chad Lawson",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical"
+                ],
+                "durationInMillis": 362353,
+                "releaseDate": "2011-10-09",
+                "name": "Nocturne in a Minor",
+                "hasLyrics": false,
+                "albumName": "The Piano",
+                "playParams": {
+                    "id": "a.472229257",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "472229257"
+                },
+                "trackNumber": 2
+            }
+        },
+        {
+            "id": "a.1572874447",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1572874447",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is3-ssl.mzstatic.com/image/thumb/Music115/v4/e0/cf/6a/e0cf6a88-88a7-d11c-8df4-a8afc7935ffb/21UMGIM01753.rgb.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Víkingur Ólafsson",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical"
+                ],
+                "durationInMillis": 186542,
+                "releaseDate": "2021-09-03",
+                "name": "Piano Sonata No. 34 in C Minor: I. Larghetto",
+                "hasLyrics": false,
+                "albumName": "Mozart & Contemporaries",
+                "playParams": {
+                    "id": "a.1572874447",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1572874447"
+                },
+                "trackNumber": 16
+            }
+        },
+        {
+            "id": "a.1506251363",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1506251363",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is2-ssl.mzstatic.com/image/thumb/Music114/v4/1d/fd/29/1dfd2927-03e8-19bc-ca44-fc3c07bc851b/886448387602.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Dirk Maassen",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical"
+                ],
+                "durationInMillis": 276795,
+                "releaseDate": "2014-04-05",
+                "name": "To the Sky (Moderate)",
+                "hasLyrics": false,
+                "albumName": "Piano Music at Home",
+                "playParams": {
+                    "id": "a.1506251363",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1506251363"
+                },
+                "trackNumber": 6
+            }
+        },
+        {
+            "id": "a.1566632114",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1566632114",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is3-ssl.mzstatic.com/image/thumb/Music125/v4/6d/cd/d3/6dcdd3d9-89ca-52cb-87bc-b634270c6fef/190296721298.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Matteo Myderwyk",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 145940,
+                "releaseDate": "2021-09-17",
+                "name": "Aria",
+                "hasLyrics": false,
+                "albumName": "Notes of Longing",
+                "playParams": {
+                    "id": "a.1566632114",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1566632114"
+                },
+                "trackNumber": 6
+            }
+        },
+        {
+            "id": "a.1394076347",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1394076347",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is2-ssl.mzstatic.com/image/thumb/Music115/v4/ba/f2/b6/baf2b6f4-f81f-12d8-576b-175fed011a4f/886446990347.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Alexis Ffrench",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 213645,
+                "releaseDate": "2018-06-08",
+                "name": "Moments",
+                "hasLyrics": false,
+                "albumName": "Evolution",
+                "playParams": {
+                    "id": "a.1394076347",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1394076347"
+                },
+                "trackNumber": 3
+            }
+        },
+        {
+            "id": "a.1559739419",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1559739419",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is5-ssl.mzstatic.com/image/thumb/Music124/v4/64/dd/03/64dd030b-9425-2a06-5c01-d95fd1a56fc8/21UMGIM16975.rgb.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Ludovico Einaudi",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical"
+                ],
+                "durationInMillis": 291680,
+                "releaseDate": "2006-11-07",
+                "name": "Ascolta",
+                "hasLyrics": false,
+                "albumName": "Cinema",
+                "playParams": {
+                    "id": "a.1559739419",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1559739419"
+                },
+                "trackNumber": 13
+            }
+        },
+        {
+            "id": "a.1579486668",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1579486668",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is3-ssl.mzstatic.com/image/thumb/Music115/v4/23/d2/4e/23d24e8a-6209-aebf-d365-fd1c10d3bc40/21UMGIM64346.rgb.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Stephan Moccio",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 313973,
+                "releaseDate": "2021-08-25",
+                "name": "Le Jardin de Monsieur Monet",
+                "hasLyrics": false,
+                "albumName": "Lionheart",
+                "playParams": {
+                    "id": "a.1579486668",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1579486668"
+                },
+                "trackNumber": 8
+            }
+        },
+        {
+            "id": "a.1580933859",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1580933859",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is1-ssl.mzstatic.com/image/thumb/Music115/v4/af/c6/36/afc6365b-1aaa-c32e-a52e-6375a0a10776/196292260564.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Belle Chen",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 212800,
+                "releaseDate": "2021-09-10",
+                "name": "Lullaby for Edward",
+                "hasLyrics": false,
+                "albumName": "We Shall Meet Again, Under The Moon - EP",
+                "playParams": {
+                    "id": "a.1580933859",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1580933859"
+                },
+                "trackNumber": 1
+            }
+        },
+        {
+            "id": "a.1542568125",
+            "type": "library-songs",
+            "href": "/v1/me/library/songs/a.1542568125",
+            "attributes": {
+                "artwork": {
+                    "width": 1200,
+                    "height": 1200,
+                    "url": "https: //is2-ssl.mzstatic.com/image/thumb/Music124/v4/8c/8f/8a/8c8f8a29-8810-feb8-7091-18191ca2768a/886448619161.jpg/{w}x{h}bb.jpg"
+                },
+                "artistName": "Dirk Maassen",
+                "discNumber": 1,
+                "genreNames": [
+                    "Classical Crossover"
+                ],
+                "durationInMillis": 281044,
+                "releaseDate": "2021-02-12",
+                "name": "In Another Life",
+                "hasLyrics": false,
+                "albumName": "Echoes",
+                "playParams": {
+                    "id": "a.1542568125",
+                    "kind": "song",
+                    "isLibrary": true,
+                    "reporting": true,
+                    "catalogId": "1542568125"
+                },
+                "trackNumber": 8
+            }
+        }
+    ],
+    "meta": {
+        "total": 10
+    }
+}
