@@ -1,1 +1,1 @@
-// The workder that runs the mix process
+// The worker that runs the mix process
