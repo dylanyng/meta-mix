@@ -1,8 +1,11 @@
 const express = require("express");
 const router = express.Router();
+const homeController = require('../controllers/home');
 const { ensureAuth, ensureGuest } = require("../middleware/auth");
 
-router.get('/', ensureGuest, (req, res) => {
+router.get("/", homeController.getIndex);
+
+router.get('/login', ensureGuest, (req, res) => {
   res.render('login', {
     layout: 'login'
   })
